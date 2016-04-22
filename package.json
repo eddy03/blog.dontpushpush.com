@@ -1,0 +1,22 @@
+{
+  "name": "blog.dontpushpush.com",
+  "version": "1.0.0",
+  "description": "blog.dontpushpush.com powered by ghost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddy03/blog.dontpushpush.com.git"
+  },
+  "author": "eddy <eddytech03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddy03/blog.dontpushpush.com/issues"
+  },
+  "homepage": "https://github.com/eddy03/blog.dontpushpush.com#readme",
+  "dependencies": {
+    "ghost": "^0.7.9"
+  }
+}
